@@ -8,7 +8,7 @@ COUNTRYCODE 	VARCHAR2(3)
 DISTRICT		VARCHAR2(20)
 POPULATION 		NUMBER
 
-Query By Saideep Shetty
+Query By Saideep Shetty.
 Solution:
 SELECT *
 FROM CITY
